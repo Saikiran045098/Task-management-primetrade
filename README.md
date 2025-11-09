@@ -173,10 +173,4 @@ The frontend will run on [http://localhost:5173](http://localhost:5173).
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License** – feel free to use and modify it.
 
----
-
-## 📸 Screenshots / Demo
-_Add screenshots or a link to your deployed app here once ready._
